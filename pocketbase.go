@@ -9,10 +9,10 @@ import (
 	"syscall"
 
 	"github.com/fatih/color"
-	"github.com/pocketbase/pocketbase/cmd"
-	"github.com/pocketbase/pocketbase/core"
-	"github.com/pocketbase/pocketbase/tools/list"
 	"github.com/spf13/cobra"
+	"github.com/theHamdiz/pocketbase/cmd"
+	"github.com/theHamdiz/pocketbase/core"
+	"github.com/theHamdiz/pocketbase/tools/list"
 )
 
 var _ core.App = (*PocketBase)(nil)
