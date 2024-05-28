@@ -729,7 +729,7 @@ export default class CommonHelper {
     /**
      * Returns a concatenated `items` string.
      *
-     * @param  {String} items
+     * @param  {(*|string)[]} items
      * @param  {String} [separator]
      * @return {Array}
      */

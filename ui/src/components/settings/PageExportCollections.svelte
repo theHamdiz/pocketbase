@@ -107,7 +107,7 @@
                 <div class="content txt-xl m-b-base">
                     <p>
                         Below you'll find your current collections configuration that you could import in
-                        another PocketBase environment.
+                        another Parnone environment.
                     </p>
                 </div>
 
